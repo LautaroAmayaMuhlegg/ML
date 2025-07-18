@@ -88,3 +88,4 @@ echo Logs guardados en logs\%LOG_FILENAME%
 echo Listo. Sesión finalizada.
 pause
 exit
+
