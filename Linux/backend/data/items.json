@@ -1,0 +1,100 @@
+[
+  {
+    "id": "MLA001",
+    "title": "iPhone 13 Pro Max",
+    "description": "Pantalla Super Retina XDR de 6.7 pulgadas. Chip A15 Bionic con GPU de 5 núcleos. Sistema de cámaras Pro con teleobjetivo, gran angular y ultra gran angular. Grabación de video ProRes. Hasta 28 horas de reproducción de video. Resistencia al agua IP68. Face ID, 5G y Ceramic Shield para una durabilidad increíble.",
+    "price": 999999.99,
+    "currency": "ARS",
+    "available_quantity": 8,
+    "is_best_seller": true,
+    "shipping_info": "Llega entre el jueves y el lunes",
+    "features": [
+      {
+        "icon": "chip",
+        "label": "Chip A15 Bionic"
+      },
+      {
+        "icon": "storage",
+        "label": "128 GB"
+      },
+      {
+        "icon": "screen",
+        "label": "6.7'' Super Retina XDR"
+      },
+      {
+        "icon": "camera",
+        "label": "Triple 12 MP"
+      }
+    ],
+    "pictures": [
+      "assets/img/iphone-1.jpg",
+      "assets/img/iphone-2.jpg"
+    ],
+    "seller": {
+      "id": "VEND001",
+      "name": "Apple Store AR",
+      "logo": "assets/icons/apple.svg",
+      "rating": 4.9,
+      "status": "✔ Verificado",
+      "link": "https://tienda.mercadolibre.com.ar/apple#origin=search_intervention&tracking_id=ac6db5a9-40cd-4352-9a90-3b4a1c0699a9"
+    },
+    "payment_methods": [
+      "Visa",
+      "MasterCard",
+      "MercadoPago"
+    ],
+    "reviews": [
+      {
+        "user": "Ariel",
+        "comment": "Volvi para decirles que me encanto el telefono en realidad aguante iphone",
+        "rating": 5
+      },
+      {
+        "user": "Lautaro",
+        "comment": "Aguante el iphone 13 pro max!!",
+        "rating": 5
+      },
+      {
+        "user": "Lucía",
+        "comment": "El mejor iPhone",
+        "rating": 5
+      },
+      {
+        "user": "Diego",
+        "comment": "El mejor iPhone hasta ahora para mi, pero esperaba un poco mas",
+        "rating": 3
+      },
+      {
+        "user": "Ariel",
+        "comment": "Una porqueria de telefono aguante Samsung",
+        "rating": 1
+      },
+      {
+        "user": "Karina",
+        "comment": "Me encantan los colores que tiene la pantalla",
+        "rating": 4
+      },
+      {
+        "user": "Rafa",
+        "comment": "La verdad esperaba mas del iphone que tiene lautaro",
+        "rating": 2
+      }
+    ],
+    "questions": [
+      {
+        "user": "Usuario",
+        "question": "¿Es nuevo o reacondicionado?",
+        "date": "2025-07-17T20:34:30.218Z",
+        "answer": "Nuevo, sellado en caja.",
+        "answerDate": "2025-07-17T20:34:35.772Z"
+      },
+      {
+        "user": "Usuario",
+        "question": " ¿Este modelo viene con cargador?",
+        "date": "2025-07-17T20:32:45.203Z",
+        "answer": "No, Apple no incluye cargador en este modelo.",
+        "answerDate": "2025-07-17T20:32:55.031Z"
+      }
+    ]
+  }
+]
